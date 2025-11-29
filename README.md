@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on my first project<br>🌱 I’m currently learning JavaScript<br>
+🔭 I’m currently working on momentum_website<br>🌱 I’m currently learning JavaScript<br>
 
 
 ## 🌐 Socials:
